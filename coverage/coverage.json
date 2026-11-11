@@ -1,0 +1,25 @@
+{
+  "branches": {
+    "coverage": "-",
+    "missed": 0,
+    "total": 0
+  },
+  "functions": {
+    "coverage": "78.02%",
+    "missed": 1536,
+    "total": 6989
+  },
+  "generated_at": "2026-11-11T18:16:09Z",
+  "lines": {
+    "coverage": "81.59%",
+    "missed": 10952,
+    "total": 59504
+  },
+  "package": "workspace",
+  "regions": {
+    "coverage": "80.18%",
+    "missed": 16980,
+    "total": 85668
+  },
+  "run_url": "https://github.com/TheArkhitect/AgentENV/actions/runs/43072089222"
+}
